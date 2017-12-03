@@ -1,0 +1,10 @@
+[info]
+name = serviceTest
+version = 0.0.1
+longname = Service Tester
+author = Jorge Balanz
+email = jibalanz@gmail.com
+homepage = https://github.com/jorgeblnz/
+compat = 0.8.8b
+capabilities = 
+nosync = 
